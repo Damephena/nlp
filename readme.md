@@ -11,3 +11,6 @@ Repository forked from [Udacity](https://github.com/Udacity) NLP repo.
 A number of steps were carried out before applying `.add_states()`, `.add_transition()` and `.bake()`
 These included:
 `emission_probability` and `transition_probability` using `tag_unigrams`, `tag_bigrams`, start emission probabilty etc.
+- Topic modeling
+
+In this notebook, LDA was implemeted.
